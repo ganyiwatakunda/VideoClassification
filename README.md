@@ -1,3 +1,5 @@
 # VideoClassification
 
-Praise, Fassy, Shammy
+PraiseGanyiwa 
+Fastino Mateveva 
+Shamiso Makainganwa
